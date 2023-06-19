@@ -16,7 +16,7 @@ let val1= monthsName.forEach(element => {
     if(str1.includes(element)){
         outResult.push(element)
         outCount++
-        // str1.slice(ouEle)
+        // str1.slice(ouEle)ok
     }
 });
 console.log(outCount)
