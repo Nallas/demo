@@ -12,7 +12,7 @@ let outCount=0;
 let outResult=[]
 let ouEle=[]
 let val1= monthsName.forEach(element => {
-    console.log(element)
+    // console.log(element)
     if(str1.includes(element)){
         outResult.push(element)
         outCount++
