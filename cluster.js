@@ -30,5 +30,5 @@ if(cluster.isMaster){
     }
 })
 
-app.listen(23000,()=>console.log(`Listerning port 3000`))
+app.listen(3000,()=>console.log(`Listerning port 4000`))
 }
