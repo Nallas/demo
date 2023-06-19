@@ -29,6 +29,7 @@ if(cluster.isMaster){
             // console.log(`${process.pid} killed`)
     }
 })
-
+console.log("added")
+console.log("new")
 app.listen(3000,()=>console.log(`Listerning port 4000`))
 }
